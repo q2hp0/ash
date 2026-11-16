@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="assets/fat.png">../assets/fat.png</file>
+        <file alias="icons/ash.svg">../icons/ash.svg</file>
+        <file alias="styles/main.qss">../styles/main.qss</file>
+    </qresource>
+</RCC>
